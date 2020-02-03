@@ -3,15 +3,25 @@
 
 <head>
   <meta charset='utf-8'>
-  <title> Share Your Travels -- New York - Central Park</title>
+  <title>Share Your Travels -- New York - Central Park</title>
 <head>
 
 <body>
   <h1>Share Your Travels</h1>
   <h2>New York - Central Park</h2>
   <h3>Description</h3>
-  <p>Photo by Randy Connolly</p>
-  <p>This photo of Conservatory Pond in Central Park New York City was taken on October 22, 2011 with a Canon E05.</p>
+    <p>Photo by Randy Connolly</p>
+    <p>This photo of Conservatory Pond in <a href='http://www.centralpark.com'>Central Park</a> in
+    <a href='newyork.html'>New York City</a> was taken on October 22, 2011 with a Canon E05.</p>
+    <a href='images/central-park-large.jpg'> <img src='images/central-park.jpg' alt='Central Park' title='Central Park' />
+    </a>
+    
+    <p>Share:
+      <img src='images/social/email.jpg' alt='email this' />
+      <img src='images/social/rss.jpg' alt='syndicate this' />
+      <img src='images/social/twitter.jpg' alt='tweet this' />
+    </p>
+  
   <h3>Reviews</h3>
   <div>
     <p>By Ricardo on September 15, 2012</p>
